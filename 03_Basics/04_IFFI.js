@@ -18,7 +18,7 @@ executing everything until it
 */
 
 ( (name) => {
-    //Unamed IFFI
+    //Unamed IFFI 
     console.log(`DB CONNECTED TWO ${name}`);
 } )('hitesh')
 
